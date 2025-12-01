@@ -1,0 +1,188 @@
+{
+  "objects": [
+    {
+      "l": "Title: SATURN V: THE APOLLO MOON ROCKET",
+      "c": [34, 157, 96, 840]
+    },
+    {
+      "l": "Header: APOLLO SPACECRAFT",
+      "c": [122, 643, 150, 777]
+    },
+    {
+      "l": "Label: Command Module (CM)",
+      "c": [161, 574, 196, 640]
+    },
+    {
+      "l": "Command Module (CM)",
+      "c": [198, 567, 298, 616]
+    },
+    {
+      "l": "Label: Service Module (SM)",
+      "c": [322, 649, 363, 703]
+    },
+    {
+      "l": "Service Module (SM)",
+      "c": [202, 618, 298, 732]
+    },
+    {
+      "l": "Label: Lunar Module (LM)",
+      "c": [158, 726, 178, 831]
+    },
+    {
+      "l": "Lunar Module (LM)",
+      "c": [186, 739, 295, 800]
+    },
+    {
+      "l": "Label: Spacecraft-Lunar Module Adapter (SLA)",
+      "c": [320, 732, 363, 852]
+    },
+    {
+      "l": "Spacecraft-Lunar Module Adapter (SLA)",
+      "c": [190, 804, 303, 852]
+    },
+    {
+      "l": "Arrow: To Moon",
+      "c": [221, 856, 277, 915]
+    },
+    {
+      "l": "Moon",
+      "c": [197, 921, 299, 976]
+    },
+    {
+      "l": "Label: STAGE 3: S-IVB (Third Stage)",
+      "c": [225, 29, 287, 143]
+    },
+    {
+      "l": "Arrow Indicator",
+      "c": [229, 153, 268, 209]
+    },
+    {
+      "l": "J-2 Engine",
+      "c": [216, 216, 290, 286]
+    },
+    {
+      "l": "S-IVB Fuel Tank",
+      "c": [181, 286, 316, 501]
+    },
+    {
+      "l": "Label: LH2 / LOX",
+      "c": [238, 442, 260, 489]
+    },
+    {
+      "l": "Label: 1 J-2 Engine (230,000 lbs Thrust)",
+      "c": [325, 276, 348, 456]
+    },
+    {
+      "l": "Label: Translunar Injection (TLI)",
+      "c": [220, 503, 262, 563]
+    },
+    {
+      "l": "Info: Total Height",
+      "c": [338, 142, 396, 230]
+    },
+    {
+      "l": "Info: Burn Time (Stage 3)",
+      "c": [315, 481, 387, 617]
+    },
+    {
+      "l": "Label: STAGE 2: S-II (Second Stage)",
+      "c": [468, 41, 528, 141]
+    },
+    {
+      "l": "Arrow Indicator",
+      "c": [468, 153, 509, 209]
+    },
+    {
+      "l": "Engine Flames",
+      "c": [413, 198, 578, 266]
+    },
+    {
+      "l": "5 J-2 Engines",
+      "c": [413, 252, 582, 298]
+    },
+    {
+      "l": "S-II Fuel Tank",
+      "c": [407, 298, 584, 656]
+    },
+    {
+      "l": "Label: Liquid Hydrogen (LH2) / Liquid Oxygen (LOX)",
+      "c": [475, 470, 515, 600]
+    },
+    {
+      "l": "Label: 5 J-2 Engines (1.16 Million lbs Thrust)",
+      "c": [594, 319, 640, 458]
+    },
+    {
+      "l": "Info: Payload to LEO",
+      "c": [408, 678, 450, 769]
+    },
+    {
+      "l": "Arrow: Orbit Injection",
+      "c": [471, 668, 526, 726]
+    },
+    {
+      "l": "Label: Orbit Injection to ~115 Miles",
+      "c": [486, 728, 510, 888]
+    },
+    {
+      "l": "Info: Burn Time (Stage 2)",
+      "c": [542, 674, 583, 749]
+    },
+    {
+      "l": "Label: STAGE 1: S-IC (First Stage)",
+      "c": [895, 389, 959, 502]
+    },
+    {
+      "l": "Arrow Indicator",
+      "c": [894, 355, 999, 387]
+    },
+    {
+      "l": "Engine Flames",
+      "c": [670, 24, 898, 107]
+    },
+    {
+      "l": "5 F-1 Engines",
+      "c": [661, 95, 903, 150]
+    },
+    {
+      "l": "Fins / Fairings",
+      "c": [614, 137, 946, 186]
+    },
+    {
+      "l": "S-IC Fuel Tank",
+      "c": [687, 150, 878, 656]
+    },
+    {
+      "l": "Label: LOX/RP-1 Fuel Tanks",
+      "c": [761, 367, 804, 417]
+    },
+    {
+      "l": "Label: 5 F-1 Engines (7.5 Million lbs Thrust)",
+      "c": [902, 209, 946, 307]
+    },
+    {
+      "l": "Info: Total Weight",
+      "c": [665, 674, 722, 770]
+    },
+    {
+      "l": "Arrow: Liftoff",
+      "c": [747, 672, 804, 739]
+    },
+    {
+      "l": "Label: Liftoff to ~42 Miles Altitude",
+      "c": [763, 750, 792, 911]
+    },
+    {
+      "l": "Info: Burn Time (Stage 1 Liftoff)",
+      "c": [821, 674, 862, 752]
+    },
+    {
+      "l": "Info: Burn Time (Stage 1 General)",
+      "c": [898, 572, 942, 650]
+    },
+    {
+      "l": "Info: Payload to LEO (Stack)",
+      "c": [623, 848, 665, 937]
+    }
+  ]
+}
