@@ -1,0 +1,1200 @@
+{
+  "enrichments": [
+    {
+      "label": "Title: SATURN V: THE APOLLO MOON ROCKET",
+      "description": "This title introduces the Saturn V rocket, a monumental achievement in space exploration developed by NASA. It highlights its primary mission: launching the Apollo spacecraft for lunar missions, making human lunar landings possible.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "History of Saturn V Development",
+          "prompt_payload": "Generate an infographic timeline illustrating the key milestones in the development and operational history of the Saturn V rocket, from its conceptualization to its final flight, highlighting significant engineering challenges and solutions."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Comparison with Modern Rockets",
+          "prompt_payload": "Create a comparative infographic showing the Saturn V rocket's size, thrust, and payload capacity alongside modern heavy-lift rockets like the Space Launch System (SLS) and Starship, emphasizing technological advancements."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Impact on Space Exploration",
+          "prompt_payload": "Design an infographic that visualizes the long-term impact of the Saturn V program on subsequent space exploration efforts, including scientific discoveries, technological spin-offs, and inspiring future generations of engineers and astronauts."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Apollo Mission Overview Map",
+          "prompt_payload": "Generate a map-style infographic detailing the full mission profile of a typical Apollo lunar mission, from Earth liftoff to lunar landing and return, indicating key orbital maneuvers and events."
+        }
+      ]
+    },
+    {
+      "label": "Header: APOLLO SPACECRAFT",
+      "description": "This header designates the section detailing the Apollo spacecraft, the crewed vehicle that journeyed to the Moon. It comprises multiple specialized modules designed for specific phases of the lunar mission, enabling safe travel and return.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Apollo Program Milestones",
+          "prompt_payload": "Create an infographic illustrating the major milestones and achievements of the Apollo Program, from Apollo 1 to Apollo 17, detailing the purpose and outcome of each mission."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Components of Apollo Spacecraft",
+          "prompt_payload": "Generate a detailed infographic showing an exploded view of the Apollo spacecraft, clearly labeling and briefly describing the function of each primary module: Command Module, Service Module, Lunar Module, and Spacecraft-Lunar Module Adapter."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Phases of Lunar Mission",
+          "prompt_payload": "Design an infographic explaining the different phases of an Apollo lunar mission, such as translunar coast, lunar orbit insertion, lunar descent, surface operations, lunar ascent, and Earth re-entry."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Apollo Astronauts and Crew",
+          "prompt_payload": "Generate an infographic showcasing the astronauts who flew on the Apollo missions, highlighting their names, missions, and roles within the spacecraft components (e.g., CM Pilot, LM Pilot)."
+        }
+      ]
+    },
+    {
+      "label": "Label: Command Module (CM)",
+      "description": "The Command Module (CM) was the control center and crew living quarters for the Apollo missions, designed to safely house three astronauts. It was the only part of the Apollo spacecraft to return to Earth, re-entering the atmosphere and splashing down in the ocean.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Internal Layout of the Command Module",
+          "prompt_payload": "Generate a detailed cutaway infographic illustrating the internal layout of the Apollo Command Module, labeling the crew stations, instrument panel, couch positions, and critical life support components."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Physics of Atmospheric Re-entry",
+          "prompt_payload": "Create an infographic explaining the physics of atmospheric re-entry for the Apollo Command Module, detailing concepts like heat shield ablation, shockwaves, deceleration forces (G-forces), and splashdown."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Evolution of Crewed Capsules",
+          "prompt_payload": "Design an infographic showing the evolution of crewed space capsules, from Mercury and Gemini to Apollo, and comparing their designs, capabilities, and technological advancements to modern capsules like Orion or Crew Dragon."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "CM Communication Systems",
+          "prompt_payload": "Generate an infographic illustrating the communication systems used in the Apollo Command Module, including antennas, radios, and how they maintained contact with mission control on Earth across vast distances."
+        }
+      ]
+    },
+    {
+      "label": "Command Module (CM)",
+      "description": "The Command Module (CM) was the pressurized cabin for the three-person crew during the Apollo missions, providing a habitable environment for weeks in space. It housed the spacecraft's controls, communication systems, and critical life support for the entire journey to and from the Moon.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Apollo CM Life Support System",
+          "prompt_payload": "Create an infographic detailing the closed-loop life support system within the Apollo Command Module, explaining how oxygen was provided, carbon dioxide was removed, water was managed, and temperature was controlled for the crew."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "CM Navigation and Guidance",
+          "prompt_payload": "Generate an infographic that visually explains how the Apollo Command Module's navigation and guidance systems worked, including the Inertial Measurement Unit (IMU), optics, and the Apollo Guidance Computer (AGC)."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Manufacturing of CM Heat Shield",
+          "prompt_payload": "Design an infographic illustrating the manufacturing process and materials used for the Apollo Command Module's ablative heat shield, explaining how it protected the crew during high-speed atmospheric re-entry."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Astronaut Training for CM Operations",
+          "prompt_payload": "Generate an infographic depicting the various types of training Apollo astronauts underwent to operate the Command Module, including simulators, survival training, and mission control protocols."
+        }
+      ]
+    },
+    {
+      "label": "Label: Service Module (SM)",
+      "description": "The Service Module (SM) provided propulsion, electrical power, water, oxygen, and other consumables for the Apollo Command Module during its flight to the Moon, lunar orbit, and return. It was jettisoned just before the CM's atmospheric re-entry, burning up in the Earth's atmosphere.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "SM Propulsion System Layout",
+          "prompt_payload": "Generate a cutaway infographic illustrating the Apollo Service Module's Service Propulsion System (SPS), showing the engine, propellant tanks, and associated plumbing for major orbital maneuvers."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Fuel Cell Technology in SM",
+          "prompt_payload": "Create an infographic explaining the principle of hydrogen-oxygen fuel cells used in the Service Module to generate electrical power and potable water, detailing their chemical reactions and efficiency."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "SM Life Support Functions",
+          "prompt_payload": "Design an infographic highlighting how the Service Module supported the Command Module's life support systems, detailing the storage and delivery of oxygen and water to the crew cabin."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Apollo 13 SM Incident Explained",
+          "prompt_payload": "Generate an infographic that visually explains the Apollo 13 Service Module incident, detailing the oxygen tank explosion, its consequences, and how the crew and mission control managed the crisis using the Lunar Module."
+        }
+      ]
+    },
+    {
+      "label": "Service Module (SM)",
+      "description": "The Service Module (SM) was a critical component of the Apollo spacecraft, housing the Service Propulsion System engine for major maneuvers in space, such as Trans-Lunar Injection (TLI) corrections and Lunar Orbit Insertion (LOI). It also carried fuel cells for power generation and radiators to dissipate heat.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "SPS Engine Operation Principles",
+          "prompt_payload": "Generate an infographic detailing the operational principles of the Service Propulsion System (SPS) engine, including its bipropellant (MMH/NTO) components, thrust, and gimbaling capabilities for trajectory control."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "SM Thermal Control Systems",
+          "prompt_payload": "Create an infographic illustrating how the Service Module managed thermal control in the vacuum of space, including radiators, insulation, and the circulation of coolant to protect sensitive equipment."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Materials Used in SM Construction",
+          "prompt_payload": "Design an infographic highlighting the various materials and structural engineering principles used in the construction of the Service Module, considering its role in housing propellants and life support systems."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Service Module Jettison Sequence",
+          "prompt_payload": "Generate an infographic visualizing the sequence of events during the Service Module jettison, occurring just before the Command Module's re-entry into Earth's atmosphere."
+        }
+      ]
+    },
+    {
+      "label": "Label: Lunar Module (LM)",
+      "description": "The Lunar Module (LM) was the spacecraft designed to transport two astronauts from lunar orbit to the Moon's surface and back, making it the only truly crewed lunar vehicle. It consisted of a descent stage for landing and an ascent stage for liftoff from the Moon.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "LM Internal Layout & Crew Compartment",
+          "prompt_payload": "Generate a detailed cutaway infographic illustrating the internal layout of the Apollo Lunar Module's ascent stage, showing the crew positions, controls, and equipment necessary for lunar operations and ascent."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Lunar Landing Sequence Explained",
+          "prompt_payload": "Create an infographic explaining the step-by-step sequence of the Lunar Module's powered descent and landing on the Moon, including key maneuvers, radar guidance, and landing gear deployment."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "LM Ascent from Lunar Surface",
+          "prompt_payload": "Design an infographic visualizing the Lunar Module's ascent sequence from the Moon's surface, detailing the separation of the ascent stage, liftoff, and rendezvous with the orbiting Command Module."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Engineering Challenges of LM Design",
+          "prompt_payload": "Generate an infographic highlighting the unique engineering challenges faced during the design and construction of the Lunar Module, given its specialized role and the lunar environment."
+        }
+      ]
+    },
+    {
+      "label": "Lunar Module (LM)",
+      "description": "The Lunar Module (LM) was specifically engineered for operations in the vacuum of space and on the Moon's low-gravity surface, having no aerodynamic features or heat shield. It provided life support and propulsion for the lunar landing and subsequent rendezvous with the Command Module in lunar orbit.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "LM Structural Design for Lunar Environment",
+          "prompt_payload": "Create an infographic detailing the lightweight and lattice-like structural design of the Lunar Module, explaining how it was optimized for the vacuum of space and low lunar gravity, rather than atmospheric flight."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "LM Descent & Ascent Propulsion Systems",
+          "prompt_payload": "Generate an infographic illustrating the separate propulsion systems of the LM's descent and ascent stages, detailing their engines, propellants (MMH/NTO), and their unique roles in lunar operations."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Lunar Module Navigation for Landing",
+          "prompt_payload": "Design an infographic explaining how the Lunar Module's navigation systems, including landing radar and manual pilot input, were used to achieve a precise and safe landing on the Moon."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Lunar EVA Equipment and LM Interface",
+          "prompt_payload": "Generate an infographic showcasing the Extravehicular Activity (EVA) equipment worn by astronauts on the Moon, and how it interfaced with the Lunar Module's environmental control system for successful moonwalks."
+        }
+      ]
+    },
+    {
+      "label": "Label: Spacecraft-Lunar Module Adapter (SLA)",
+      "description": "The Spacecraft-Lunar Module Adapter (SLA) was a conical structure that housed the Lunar Module during launch and protected it from aerodynamic forces and the launch environment. Once in orbit, its four panels would separate to allow the Command/Service Module to extract and dock with the LM.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "SLA Deployment Sequence",
+          "prompt_payload": "Generate a step-by-step infographic illustrating the deployment sequence of the Spacecraft-Lunar Module Adapter (SLA) panels in Earth orbit, leading to the Command/Service Module's transposition and docking maneuver."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "SLA Structural Design and Materials",
+          "prompt_payload": "Create an infographic detailing the structural design and materials used for the Spacecraft-Lunar Module Adapter, emphasizing its role in protecting the LM during ascent and its separation mechanisms."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Transposition and Docking Maneuver",
+          "prompt_payload": "Design an infographic that explains the complex transposition and docking maneuver performed by the Command/Service Module with the Lunar Module after the SLA panels had been jettisoned."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Role of SLA in Mission Success",
+          "prompt_payload": "Generate an infographic highlighting the critical role of the SLA in ensuring the structural integrity of the Lunar Module during launch and enabling its successful deployment for lunar missions."
+        }
+      ]
+    },
+    {
+      "label": "Spacecraft-Lunar Module Adapter (SLA)",
+      "description": "The Spacecraft-Lunar Module Adapter (SLA) connected the Apollo Service Module to the Saturn V's third stage (S-IVB) during launch. It was a crucial interface that protected and housed the Lunar Module until it was ready for extraction in Earth orbit.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "SLA Jettison Mechanics",
+          "prompt_payload": "Create an infographic explaining the mechanical system used for jettisoning the four panels of the Spacecraft-Lunar Module Adapter, including explosive bolts and spring-loaded hinges."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Aerodynamic Loads on SLA During Launch",
+          "prompt_payload": "Generate an infographic illustrating the significant aerodynamic loads and stresses the Spacecraft-Lunar Module Adapter had to withstand during the Saturn V's ascent through Earth's atmosphere."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Integration of SLA with Saturn V Stages",
+          "prompt_payload": "Design an infographic showing how the Spacecraft-Lunar Module Adapter seamlessly integrated with the Saturn V's S-IVB third stage and the Apollo Service Module, ensuring structural continuity."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Materials Science of Fairing Structures",
+          "prompt_payload": "Generate an infographic discussing the advanced materials and lightweight construction techniques used for large fairing structures like the SLA, balancing strength with minimal mass."
+        }
+      ]
+    },
+    {
+      "label": "Arrow: To Moon",
+      "description": "This arrow visually indicates the final destination and objective of the Apollo spacecraft's journey, pointing towards the Moon. It represents the successful trajectory and mission profile leading to lunar orbit and subsequent landing.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Orbital Mechanics to the Moon",
+          "prompt_payload": "Generate an infographic explaining the basic orbital mechanics involved in traveling from Earth to the Moon, including concepts like Hohmann transfer orbits and gravity wells."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Apollo Landing Sites Map",
+          "prompt_payload": "Create a map-style infographic of the Moon, highlighting all the Apollo lunar landing sites and briefly describing the geological significance or mission objective of each."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Future Lunar Missions Roadmap",
+          "prompt_payload": "Design an infographic outlining current and proposed future lunar missions by various space agencies, detailing their objectives, technologies, and potential timelines for human and robotic exploration."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Human Exploration of the Moon Benefits",
+          "prompt_payload": "Generate an infographic illustrating the scientific, technological, and inspirational benefits of human exploration of the Moon, including resource utilization and setting up lunar bases."
+        }
+      ]
+    },
+    {
+      "label": "Moon",
+      "description": "The Moon is Earth's only natural satellite and the ultimate destination for the Apollo missions, representing humanity's first extraterrestrial footsteps. It is a rocky, airless body covered in craters, maria, and highlands, holding valuable clues to the early solar system's history.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Lunar Geology and Surface Features",
+          "prompt_payload": "Create an infographic detailing the major geological features of the Moon, such as craters, maria (seas), highlands, rilles, and regolith, explaining their formation and composition."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Formation of the Moon Theories",
+          "prompt_payload": "Generate an infographic summarizing the leading scientific theories about the Moon's formation, including the giant-impact hypothesis, and the evidence supporting each theory."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Moon's Influence on Earth",
+          "prompt_payload": "Design an infographic explaining the significant influence the Moon has on Earth, focusing on tidal forces, axial tilt stabilization, and its role in Earth's climate and ecosystems."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Lunar Colony Concepts",
+          "prompt_payload": "Generate an infographic showcasing futuristic concepts for lunar habitats or colonies, illustrating potential designs, resource utilization strategies, and challenges of living on the Moon."
+        }
+      ]
+    },
+    {
+      "label": "Label: STAGE 3: S-IVB (Third Stage)",
+      "description": "The S-IVB was the third and final stage of the Saturn V rocket, powered by a single J-2 engine, and was critically responsible for two distinct burns. It first performed the final burn to achieve Earth orbit and then the crucial Translunar Injection (TLI) burn to send the Apollo spacecraft towards the Moon.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "S-IVB Re-ignition Sequence",
+          "prompt_payload": "Generate an infographic detailing the complex sequence of events required for the S-IVB stage's J-2 engine to re-ignite in space for the Translunar Injection burn, including ullage motors and chilldown procedures."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "J-2 Engine Specifications",
+          "prompt_payload": "Create an infographic providing detailed specifications and performance characteristics of the J-2 engine, highlighting its thrust, specific impulse, and propellants used."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "TLI Burn Profile and Trajectory",
+          "prompt_payload": "Design an infographic that visually represents the Translunar Injection (TLI) burn profile, showing the S-IVB's trajectory change and the resulting path towards the Moon."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "S-IVB's Role in Skylab and ASTP",
+          "prompt_payload": "Generate an infographic explaining the alternate uses of the S-IVB stage, specifically its conversion into the Skylab space station and its role in the Apollo-Soyuz Test Project (ASTP) as the launch vehicle's upper stage."
+        }
+      ]
+    },
+    {
+      "label": "Arrow Indicator",
+      "description": "This arrow visually indicates the operational output or direction of the S-IVB third stage's propulsion. It points from the rocket stage to its engine, signifying the generation of thrust and the direction of movement.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Thrust Vectoring Principles",
+          "prompt_payload": "Create an infographic explaining the principles of thrust vectoring in rocket engines, illustrating how engine gimbals or other mechanisms are used to steer the rocket by altering the direction of exhaust gases."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Rocket Staging Overview",
+          "prompt_payload": "Generate an infographic providing a general overview of rocket staging, explaining why multiple stages are used, how they separate, and the benefits for achieving orbit."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Types of Diagrammatic Arrows in Engineering",
+          "prompt_payload": "Design an infographic showcasing different types of arrows used in engineering diagrams, explaining what each arrow typically represents (e.g., force, flow, direction, input/output)."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Basic Rocket Propulsion Concepts",
+          "prompt_payload": "Generate an infographic illustrating the fundamental concepts of rocket propulsion based on Newton's laws, showing how expelled mass creates thrust."
+        }
+      ]
+    },
+    {
+      "label": "J-2 Engine",
+      "description": "The J-2 engine was a liquid-fueled rocket engine developed by Rocketdyne for the Saturn IB and Saturn V rockets, primarily for upper stages. It was the first large-scale liquid-hydrogen-fueled engine, crucial for the powerful and efficient second and third stages of the Apollo program.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "J-2 Engine Cycle Explained",
+          "prompt_payload": "Create a cutaway infographic illustrating the expander bleed cycle of the J-2 rocket engine, detailing how propellants are fed to the combustion chamber and the role of turbopumps."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Chemistry of Liquid Hydrogen/Oxygen",
+          "prompt_payload": "Generate an infographic explaining the combustion chemistry of liquid hydrogen (LH2) and liquid oxygen (LOX), highlighting the energy released and the properties that make them ideal rocket propellants."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Rocket Engine Test Firing Procedures",
+          "prompt_payload": "Design an infographic depicting the typical procedures and safety measures involved in ground test firings of large rocket engines like the J-2, including data acquisition and facility requirements."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Evolution of Upper-Stage Engines",
+          "prompt_payload": "Generate an infographic showcasing the historical evolution of upper-stage rocket engines, from early designs to the J-2, and modern high-performance engines, comparing their propellants and thrust capabilities."
+        }
+      ]
+    },
+    {
+      "label": "S-IVB Fuel Tank",
+      "description": "The S-IVB fuel tank contained the cryogenic liquid hydrogen (LH2) and liquid oxygen (LOX) propellants for its single J-2 engine. It was ingeniously designed as a common bulkhead tank to save weight, with a shared wall separating the two cryogenics at different temperatures.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Common Bulkhead Tank Design",
+          "prompt_payload": "Create an infographic explaining the 'common bulkhead' design used in the S-IVB fuel tank, illustrating how a single, insulated wall separated liquid hydrogen and liquid oxygen, and its engineering advantages."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Cryogenic Fuel Storage in Space",
+          "prompt_payload": "Generate an infographic detailing the challenges and solutions for storing cryogenic propellants like LH2 and LOX for extended periods in space, including insulation, boil-off management, and tank pressurization."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Propellant Loading Procedures for Upper Stages",
+          "prompt_payload": "Design an infographic illustrating the complex procedures for loading cryogenic propellants into the S-IVB stage prior to launch, emphasizing safety and temperature control."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Thermal Management in Cryogenic Tanks",
+          "prompt_payload": "Generate an infographic explaining the principles of thermal management and insulation techniques applied to cryogenic fuel tanks to minimize heat transfer and propellant boil-off during launch and orbital flight."
+        }
+      ]
+    },
+    {
+      "label": "Label: LH2 / LOX",
+      "description": "LH2 (Liquid Hydrogen) and LOX (Liquid Oxygen) are highly efficient cryogenic propellants used in the J-2 engines of the Saturn V's upper stages. Liquid hydrogen serves as the fuel, and liquid oxygen acts as the oxidizer, producing high thrust efficiency (specific impulse) when combusted.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Chemistry of H2/O2 Combustion",
+          "prompt_payload": "Create an infographic explaining the chemical reaction of hydrogen and oxygen combustion in a rocket engine, highlighting the exothermic nature, products formed (water), and energy release."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Cryogenic Propellant Handling and Storage",
+          "prompt_payload": "Generate an infographic illustrating the specialized infrastructure, equipment, and safety protocols required for handling and storing cryogenic propellants like LH2 and LOX at extremely low temperatures."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Specific Impulse and Propellant Efficiency",
+          "prompt_payload": "Design an infographic explaining the concept of specific impulse (Isp) in rocket propulsion, comparing the efficiency of LH2/LOX propellants to other combinations like RP-1/LOX."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Alternative Rocket Propellants",
+          "prompt_payload": "Generate an infographic showcasing various alternative rocket propellants, including hypergolics, solid fuels, and future concepts like methane/LOX, discussing their advantages and disadvantages."
+        }
+      ]
+    },
+    {
+      "label": "Label: 1 J-2 Engine (230,000 lbs Thrust)",
+      "description": "This label specifies that the S-IVB third stage is powered by a single J-2 engine, capable of producing 230,000 pounds of thrust (approximately 1.02 MN). This thrust level was sufficient to complete the orbital insertion and translunar injection maneuvers after the first two stages had accelerated the rocket out of Earth's dense atmosphere.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Physics of Thrust Calculation",
+          "prompt_payload": "Create an infographic explaining the physics behind rocket thrust calculation using the Tsiolkovsky rocket equation and Newton's laws, illustrating the relationship between exhaust velocity, mass flow rate, and thrust."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Engine Power vs. Payload Capacity",
+          "prompt_payload": "Generate an infographic demonstrating the relationship between a rocket engine's thrust and its ability to deliver a certain payload mass to orbit, discussing the concept of payload fraction."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Thrust-to-Weight Ratio Explained",
+          "prompt_payload": "Design an infographic illustrating the concept of thrust-to-weight ratio for rockets and its importance at different stages of flight, from liftoff to in-space maneuvers."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Newton's Third Law in Rocketry",
+          "prompt_payload": "Generate an infographic explaining how Newton's Third Law of Motion (action-reaction) is fundamental to rocket propulsion, visually representing the forces involved in expelling exhaust gases to generate thrust."
+        }
+      ]
+    },
+    {
+      "label": "Label: Translunar Injection (TLI)",
+      "description": "Translunar Injection (TLI) is a critical propulsive maneuver that puts a spacecraft on a trajectory to the Moon, escaping Earth's gravitational influence. For Apollo, the S-IVB stage performed this burn, increasing the spacecraft's velocity sufficiently to travel directly to the Moon.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Orbital Mechanics of TLI",
+          "prompt_payload": "Create an infographic illustrating the orbital mechanics of Translunar Injection (TLI), showing how a burn at a specific point in Earth orbit propels the spacecraft onto a lunar transfer trajectory."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Hohmann Transfer Orbits Explained",
+          "prompt_payload": "Generate an infographic explaining the principles of a Hohmann transfer orbit, a common fuel-efficient maneuver used for interplanetary travel, and how TLI is a variant of this concept."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Gravity Assist Maneuvers",
+          "prompt_payload": "Design an infographic explaining how gravity assist (or 'slingshot') maneuvers work, comparing them to TLI and discussing how they are used by probes to gain speed for deep-space missions."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Calculating Escape Velocity",
+          "prompt_payload": "Generate an infographic that visually breaks down the concept of escape velocity from Earth and how the TLI burn provides the necessary velocity increment for the Apollo spacecraft to leave Earth's gravity well."
+        }
+      ]
+    },
+    {
+      "label": "Info: Total Height",
+      "description": "This information refers to the total height of the fully assembled Saturn V rocket with the Apollo spacecraft on top, which was 363 feet (110.6 meters). This immense height made it the tallest and most powerful rocket ever successfully launched until the recent SLS.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Scale Comparison of Historic Rockets",
+          "prompt_payload": "Create a visual infographic comparing the total height of the Saturn V with other historical rockets like the V-2, Atlas, Titan, and Space Shuttle, illustrating their relative sizes."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Engineering Challenges of Tall Structures",
+          "prompt_payload": "Generate an infographic discussing the unique engineering challenges associated with designing and constructing extremely tall rocket structures, including structural integrity, wind loads, and stability."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Aerodynamics of Large Rockets",
+          "prompt_payload": "Design an infographic explaining the fundamental principles of aerodynamics as they apply to large rocket bodies during ascent, including drag, lift, and stability considerations."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Units Conversion: Feet to Meters",
+          "prompt_payload": "Generate an infographic explaining how to convert between feet and meters, using the Saturn V's height as a practical example to illustrate the conversion process and standard units in aerospace."
+        }
+      ]
+    },
+    {
+      "label": "Info: Burn Time (Stage 3)",
+      "description": "The burn time for Stage 3 (S-IVB) was split into two critical phases: 165 seconds for the first burn to achieve Earth orbit, and 335 seconds for the second burn for Translunar Injection (TLI). These precise burn durations were essential for accurate orbital insertion and setting the lunar trajectory.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Delta-V and Burn Time Relationship",
+          "prompt_payload": "Create an infographic explaining the concept of Delta-V (change in velocity) and its direct relationship to rocket engine burn time and the amount of propellant consumed for orbital maneuvers."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Propellant Consumption Rates",
+          "prompt_payload": "Generate an infographic illustrating the rate at which the S-IVB stage consumed its cryogenic propellants during the first and second burns, highlighting the immense fuel flow required."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Guidance and Navigation During Burns",
+          "prompt_payload": "Design an infographic explaining how the Saturn V's guidance and navigation systems precisely controlled the S-IVB's burn times and engine cut-off to achieve the intended orbital and lunar trajectories."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Engine Restart Capabilities",
+          "prompt_payload": "Generate an infographic detailing the engineering challenges and mechanisms involved in enabling a rocket engine, like the J-2, to restart reliably in the vacuum of space after an initial burn."
+        }
+      ]
+    },
+    {
+      "label": "Label: STAGE 2: S-II (Second Stage)",
+      "description": "The S-II was the second stage of the Saturn V rocket, powered by five J-2 engines, igniting after the S-IC first stage separated. It was responsible for accelerating the massive rocket through the upper atmosphere to a very high altitude and speed, approaching orbital velocity.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "S-II Stage Separation Mechanics",
+          "prompt_payload": "Generate an infographic illustrating the sequence and mechanics of the S-II stage separating from the S-IC first stage, including the use of retrorockets and ullage motors."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Aerodynamic Forces on S-II",
+          "prompt_payload": "Create an infographic explaining the aerodynamic forces experienced by the S-II stage during its flight through the thinner upper atmosphere, contrasting them with the forces on the first stage."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Cluster Engine Performance and Control",
+          "prompt_payload": "Design an infographic detailing the advantages and challenges of using a cluster of five J-2 engines on the S-II stage, including thrust distribution, gimbaling for steering, and engine-out capabilities."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Material Science of S-II Fuel Tanks",
+          "prompt_payload": "Generate an infographic discussing the advanced materials and fabrication techniques, particularly welding of aluminum alloys, used for the cryogenic fuel tanks of the S-II stage to minimize weight."
+        }
+      ]
+    },
+    {
+      "label": "Arrow Indicator",
+      "description": "This arrow visually signifies the propulsion and thrust direction of the S-II second stage, pointing from the rocket body to the engine flames. It illustrates the expulsion of hot exhaust gases to generate forward momentum.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Rocket Nozzle Design and Function",
+          "prompt_payload": "Create an infographic explaining the principle of a de Laval nozzle in rocket engines, showing how it expands exhaust gases to supersonic speeds to maximize thrust efficiency in a vacuum."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Principle of Thrust Explained",
+          "prompt_payload": "Generate an infographic that simplifies the fundamental principle of thrust in rockets, connecting it to the conservation of momentum and the expulsion of reaction mass."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Exhaust Velocity Physics",
+          "prompt_payload": "Design an infographic explaining the physics of exhaust velocity, demonstrating how higher exhaust velocities contribute to greater specific impulse and overall rocket performance."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "How to Read Aerospace Engineering Diagrams",
+          "prompt_payload": "Generate an infographic providing a guide on how to interpret common symbols and conventions used in aerospace engineering diagrams, including various types of arrows and their meanings."
+        }
+      ]
+    },
+    {
+      "label": "Engine Flames",
+      "description": "The engine flames represent the hot, high-velocity exhaust gases produced by the combustion of propellants in the J-2 engines of the S-II stage. These incandescent gases are expelled from the nozzles, providing the thrust that propels the rocket upwards and accelerates it towards orbit.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Combustion Chemistry in Rocket Engines",
+          "prompt_payload": "Create an infographic detailing the high-temperature, high-pressure combustion chemistry that occurs within a rocket engine, explaining how propellants combine to produce hot exhaust gases."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Plasma Physics of Rocket Exhaust",
+          "prompt_payload": "Generate an infographic explaining the plasma physics involved in rocket exhaust plumes, including the extreme temperatures, ionization, and expansion characteristics in different atmospheric pressures."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Flame Temperature and Color in Rocketry",
+          "prompt_payload": "Design an infographic discussing how the temperature and composition of rocket propellants influence the color and appearance of engine flames, from red-orange to translucent blue."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Rocket Engine Cooling Mechanisms",
+          "prompt_payload": "Generate an infographic illustrating the various cooling mechanisms (e.g., regenerative cooling, ablative cooling) used to protect rocket engine nozzles and combustion chambers from the extreme heat of the exhaust flames."
+        }
+      ]
+    },
+    {
+      "label": "5 J-2 Engines",
+      "description": "The S-II second stage was propelled by a cluster of five J-2 engines, collectively generating significant thrust to accelerate the Saturn V towards orbital velocity. The clustering of these powerful, liquid-hydrogen-fueled engines allowed for highly efficient propulsion in the upper atmosphere.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Benefits of Engine Clustering",
+          "prompt_payload": "Create an infographic explaining the engineering and performance benefits of clustering multiple rocket engines on a single stage, such as increased thrust, redundancy, and simplified design compared to a single larger engine."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Thrust Sharing and Load Distribution",
+          "prompt_payload": "Generate an infographic illustrating how thrust is shared and loads are distributed among a cluster of five J-2 engines, ensuring structural integrity and stable flight."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Gimbaling for Attitude Control in Clusters",
+          "prompt_payload": "Design an infographic explaining how multiple gimbaled engines in a cluster are coordinated to provide precise attitude control and steering for a rocket during its ascent."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Engine-Out Capability in Multi-Engine Stages",
+          "prompt_payload": "Generate an infographic discussing the concept of 'engine-out capability' in multi-engine rocket stages, explaining how a mission might proceed if one engine fails and how the remaining engines compensate."
+        }
+      ]
+    },
+    {
+      "label": "S-II Fuel Tank",
+      "description": "The S-II fuel tank held the large quantities of cryogenic liquid hydrogen (LH2) and liquid oxygen (LOX) required for its five J-2 engines. This massive tank was structurally integrated into the stage using an innovative common bulkhead design, minimizing weight and maximizing propellant volume.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Cryogenic Tank Insulation Technology",
+          "prompt_payload": "Create an infographic detailing the advanced insulation technologies used for the S-II's cryogenic fuel tanks, explaining how vacuum jackets and multi-layer insulation minimize heat transfer and boil-off."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Tank Pressurization Systems",
+          "prompt_payload": "Generate an infographic explaining the tank pressurization systems of the S-II stage, detailing how gaseous helium or hydrogen was used to maintain pressure as propellants were consumed, preventing cavitation."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Propellant Slosh Dynamics",
+          "prompt_payload": "Design an infographic illustrating the phenomenon of propellant slosh inside large rocket tanks and the engineering solutions, such as baffles, employed in the S-II to prevent instability during flight."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Manufacturing of Large Aluminum Cryotanks",
+          "prompt_payload": "Generate an infographic showcasing the specialized manufacturing processes, including precision welding and forming techniques, involved in creating the large aluminum cryogenic fuel tanks for the S-II stage."
+        }
+      ]
+    },
+    {
+      "label": "Label: Liquid Hydrogen (LH2) / Liquid Oxygen (LOX)",
+      "description": "Liquid Hydrogen (LH2) and Liquid Oxygen (LOX) are the highly efficient cryogenic propellants utilized in the S-II stage's J-2 engines. LH2 serves as the fuel, providing a high specific impulse due to its low molecular weight, while LOX is the oxidizer necessary for combustion in the vacuum of space.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Thermodynamics of LH2/LOX Propellants",
+          "prompt_payload": "Create an infographic explaining the thermodynamic properties of liquid hydrogen and liquid oxygen, focusing on their extremely low boiling points, heat capacities, and energy density for rocket propulsion."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Boil-off Prevention Strategies",
+          "prompt_payload": "Generate an infographic illustrating various engineering strategies and technologies used to prevent boil-off of cryogenic propellants in rocket tanks during pre-launch and flight operations."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Propellant Transfer and Venting Systems",
+          "prompt_payload": "Design an infographic detailing the complex plumbing, valves, and venting systems used for loading, managing, and feeding cryogenic propellants from the S-II tanks to the J-2 engines."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Historical Use of Cryogenic Propellants",
+          "prompt_payload": "Generate an infographic tracing the history of cryogenic propellant development and use in rocketry, from early concepts to their widespread adoption in powerful engines like the J-2 and Space Shuttle Main Engines."
+        }
+      ]
+    },
+    {
+      "label": "Label: 5 J-2 Engines (1.16 Million lbs Thrust)",
+      "description": "This label details that the S-II second stage is powered by five J-2 engines, which collectively generate a staggering 1.16 million pounds of thrust (approximately 5.16 MN). This immense power was crucial for boosting the massive Saturn V into its trans-atmospheric trajectory, accelerating it to near orbital velocities.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Thrust Measurement Techniques",
+          "prompt_payload": "Create an infographic explaining the various techniques and instrumentation used to measure the thrust produced by rocket engines during static fire tests and actual launches."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Rocket Engine Efficiency Metrics",
+          "prompt_payload": "Generate an infographic discussing different metrics used to evaluate rocket engine efficiency, such as specific impulse, thrust-to-weight ratio, and chamber pressure, for multi-engine clusters."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Power-to-Weight Ratio for Rockets",
+          "prompt_payload": "Design an infographic illustrating the concept of power-to-weight ratio in rocket design and how optimizing it for each stage, particularly for the S-II, maximizes performance and payload capacity."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Engineering Scale of Engine Clusters",
+          "prompt_payload": "Generate an infographic that visually conveys the sheer engineering scale and complexity involved in designing, manufacturing, and integrating a cluster of five powerful J-2 engines for a single rocket stage."
+        }
+      ]
+    },
+    {
+      "label": "Info: Payload to LEO",
+      "description": "The payload capacity to Low Earth Orbit (LEO) for the Saturn V, after the S-II stage completes its burn, is 310,000 lbs (approximately 140,614 kg). This impressive figure represents the maximum mass the rocket could deliver to a stable orbit around Earth, ready for further maneuvers.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Orbital Mechanics of LEO",
+          "prompt_payload": "Create an infographic explaining the characteristics and parameters of Low Earth Orbit (LEO), including typical altitudes, orbital periods, and its significance for various space missions."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Payload Optimization Techniques",
+          "prompt_payload": "Generate an infographic detailing how engineers optimize a rocket's payload capacity, considering factors like structural mass reduction, engine efficiency, and propellant selection."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Cost Per Pound to Orbit Comparison",
+          "prompt_payload": "Design an infographic comparing the historical and current 'cost per pound to orbit' for various launch vehicles, including the Saturn V, and how it impacts space accessibility."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Future Heavy-Lift Capabilities",
+          "prompt_payload": "Generate an infographic showcasing anticipated future heavy-lift launch vehicle capabilities, such as those for lunar and Mars missions, and how they compare to the Saturn V's LEO payload capacity."
+        }
+      ]
+    },
+    {
+      "label": "Arrow: Orbit Injection",
+      "description": "This arrow visually depicts the crucial maneuver of orbit injection, where the rocket achieves a stable trajectory around Earth. It points from the S-II stage's operational phase towards the description of reaching approximately 115 miles altitude.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Physics of Orbital Insertion",
+          "prompt_payload": "Create an infographic explaining the physics involved in achieving orbital insertion, detailing how tangential velocity and altitude combine to create a stable orbit around a celestial body."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Orbital Parameters Explained",
+          "prompt_payload": "Generate an infographic defining and illustrating key orbital parameters such as apogee, perigee, inclination, and orbital period, which characterize a stable Earth orbit."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Gravity's Role in Orbits",
+          "prompt_payload": "Design an infographic explaining the fundamental role of gravity in maintaining orbits, showing the balance between a spacecraft's inertia and the gravitational pull of Earth."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Rocket Trajectory Planning",
+          "prompt_payload": "Generate an infographic illustrating the complex process of planning a rocket's trajectory, from launch to orbital insertion, considering atmospheric effects, target orbit, and fuel efficiency."
+        }
+      ]
+    },
+    {
+      "label": "Label: Orbit Injection to ~115 Miles",
+      "description": "Orbit injection for the Saturn V aimed to place the spacecraft into a temporary parking orbit at an altitude of approximately 115 miles (185 kilometers) above Earth. This initial orbit allowed for comprehensive system checks and precise navigation updates before the final burn to the Moon.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Advantages of a Parking Orbit",
+          "prompt_payload": "Create an infographic explaining the strategic advantages of using a temporary parking orbit before a trans-lunar injection, such as optimizing launch windows, performing system checks, and trajectory adjustments."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Orbital Decay and Maintenance",
+          "prompt_payload": "Generate an infographic illustrating the concept of orbital decay, explaining how residual atmospheric drag at 115 miles altitude can cause orbits to degrade over time and the need for orbital maintenance burns."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Atmospheric Drag at Different Altitudes",
+          "prompt_payload": "Design an infographic explaining how atmospheric drag varies with altitude and its impact on spacecraft in Low Earth Orbit, even at 115 miles, influencing mission planning and fuel consumption."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Types of Earth Orbits",
+          "prompt_payload": "Generate an infographic comparing different types of Earth orbits (LEO, MEO, GEO, polar, sun-synchronous), explaining their characteristics, uses, and the altitudes associated with each."
+        }
+      ]
+    },
+    {
+      "label": "Info: Burn Time (Stage 2)",
+      "description": "The S-II second stage had a continuous burn time of approximately 360 seconds (6 minutes) following first stage separation. This sustained burn was essential for accelerating the rocket from the upper atmosphere to orbital velocity, overcoming Earth's gravity and residual atmospheric drag.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Thrust-to-Mass Ratio Over Time",
+          "prompt_payload": "Create an infographic illustrating how the thrust-to-mass ratio of the Saturn V changed over the S-II stage's burn time as propellant was consumed, affecting the rocket's acceleration."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Propellant Flow Rates During S-II Burn",
+          "prompt_payload": "Generate an infographic detailing the immense propellant flow rates required by the five J-2 engines during the S-II stage's 360-second burn, highlighting the engineering challenge of fuel delivery."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Guidance System Accuracy for Orbital Insertion",
+          "prompt_payload": "Design an infographic explaining the precision and accuracy required from the Saturn V's guidance system to achieve the correct velocity and attitude for orbital insertion within the 360-second burn window."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Stages of Rocket Flight: Ascent Profile",
+          "prompt_payload": "Generate an infographic depicting the key phases and events of a rocket's ascent flight profile, from liftoff through first stage burn, second stage burn, and orbital insertion, including burn times for each."
+        }
+      ]
+    },
+    {
+      "label": "Label: STAGE 1: S-IC (First Stage)",
+      "description": "The S-IC was the first and most powerful stage of the Saturn V rocket, equipped with five mighty F-1 engines, generating colossal thrust. It provided the initial immense power needed to lift the fully fueled, 6.5 million-pound rocket off the launch pad and accelerate it through the dense lower atmosphere.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "S-IC Construction Details",
+          "prompt_payload": "Generate an infographic detailing the structural construction and components of the S-IC first stage, including its massive fuel tanks, interstage, and engine fairings."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "F-1 Engine Mechanics and Operation",
+          "prompt_payload": "Create an infographic explaining the complex mechanical and operational principles of the F-1 engine, highlighting its turbopump, combustion chamber, and nozzle design."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Launch Pad Operations for Saturn V",
+          "prompt_payload": "Design an infographic illustrating the extensive launch pad operations and infrastructure required to prepare and launch the Saturn V, including fuel loading, umbilical connections, and safety procedures."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Rocket Acoustics and Vibrations at Launch",
+          "prompt_payload": "Generate an infographic explaining the extreme acoustic and vibrational environments generated by the F-1 engines during liftoff and how these forces were mitigated for the rocket and launch pad."
+        }
+      ]
+    },
+    {
+      "label": "Arrow Indicator",
+      "description": "This arrow visually highlights the powerful thrust and operational direction of the S-IC first stage during liftoff. It points towards the engine exhaust, emphasizing the immense force generated to lift the entire Saturn V off the ground against gravity.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Thrust vs. Weight at Liftoff",
+          "prompt_payload": "Create an infographic illustrating the critical balance between the thrust generated by the F-1 engines and the total weight of the Saturn V at liftoff, demonstrating the initial acceleration phase."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Rocket Motion Principles on Launch",
+          "prompt_payload": "Generate an infographic explaining the fundamental principles of motion applied to a rocket during launch, including the forces of thrust, gravity, and drag acting on the vehicle."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Structural Loads During Launch",
+          "prompt_payload": "Design an infographic detailing the extreme structural loads and stresses experienced by the S-IC first stage and the entire rocket stack during the powerful liftoff phase."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Common Diagrammatic Conventions in Engineering",
+          "prompt_payload": "Generate an infographic illustrating various standard diagrammatic conventions and symbols commonly used in engineering drawings and schematics, particularly for aerospace systems."
+        }
+      ]
+    },
+    {
+      "label": "Engine Flames",
+      "description": "The engine flames emanating from the F-1 engines of the S-IC first stage are a spectacular and deafening display of combustion, representing the rapid burning of RP-1 and liquid oxygen to generate colossal thrust. These superheated gases are expelled at high velocity, pushing the 6.5 million-pound rocket skyward.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "F-1 Engine Exhaust Characteristics",
+          "prompt_payload": "Create an infographic detailing the unique characteristics of the F-1 engine exhaust plumes, including their massive size, luminosity, and the specific sound they produced."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Shock Diamonds in Rocket Plumes",
+          "prompt_payload": "Generate an infographic explaining the phenomenon of 'shock diamonds' (Mach diamonds) visible in rocket exhaust plumes, detailing their formation due to pressure differences."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Heat Transfer from Rocket Exhaust",
+          "prompt_payload": "Design an infographic illustrating the intense heat transfer from rocket exhaust plumes to the launch pad, ground infrastructure, and the rocket's lower sections, and how it is managed."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Environmental Impact of Rocket Launches",
+          "prompt_payload": "Generate an infographic discussing the environmental considerations and impact of rocket launches, specifically focusing on the emissions from large engines like the F-1 and efforts to mitigate them."
+        }
+      ]
+    },
+    {
+      "label": "5 F-1 Engines",
+      "description": "The S-IC first stage utilized five F-1 engines, the most powerful single-chamber liquid-fueled rocket engines ever flown, arranged in a quincunx pattern. Their combined thrust was critical for overcoming Earth's gravity and significant atmospheric drag during the initial phase of launch.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "F-1 Engine Design Challenges",
+          "prompt_payload": "Generate an infographic highlighting the immense engineering challenges and innovations involved in designing and developing the F-1 engine, considering its unprecedented scale and power."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Turbopump Technology in F-1",
+          "prompt_payload": "Create an infographic explaining the powerful turbopump system of the F-1 engine, detailing how it delivered massive amounts of propellants to the combustion chamber under extreme pressure."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Rocket Engine Bell Characteristics",
+          "prompt_payload": "Design an infographic illustrating the design and function of the F-1 engine's bell-shaped nozzle, explaining how its geometry optimizes thrust for atmospheric flight."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Manufacturing of F-1 Engines",
+          "prompt_payload": "Generate an infographic showcasing the specialized manufacturing processes, materials, and assembly techniques required to build the colossal F-1 rocket engines."
+        }
+      ]
+    },
+    {
+      "label": "Fins / Fairings",
+      "description": "The fins, also known as fairings, on the S-IC first stage provided crucial aerodynamic stability and control during the initial atmospheric ascent of the Saturn V. They helped maintain the rocket's desired trajectory, especially against crosswinds and atmospheric disturbances at lower altitudes.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Aerodynamic Stability Principles with Fins",
+          "prompt_payload": "Create an infographic explaining the principles of aerodynamic stability in rockets, illustrating how fins provide restoring forces to keep the rocket pointed into the direction of flight."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Rocket Fin Design and Materials",
+          "prompt_payload": "Generate an infographic detailing the design considerations and materials used for rocket fins, including their shape, size, and thermal resistance to withstand atmospheric friction."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Wind Shear Effects on Rockets",
+          "prompt_payload": "Design an infographic explaining the phenomenon of wind shear during rocket ascent and how aerodynamic fins help the rocket cope with sudden changes in wind speed and direction."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Role of Fins in Early Rocket Design",
+          "prompt_payload": "Generate an infographic illustrating the historical role of fins in early rocket and missile designs, from ancient rockets to the V-2, emphasizing their importance for guidance before advanced thrust vectoring."
+        }
+      ]
+    },
+    {
+      "label": "S-IC Fuel Tank",
+      "description": "The S-IC fuel tank was the largest component of the Saturn V, containing massive amounts of RP-1 (kerosene) fuel and liquid oxygen (LOX) oxidizer for the five F-1 engines. Its immense capacity enabled the stage to generate the overwhelming thrust needed for liftoff and initial ascent.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "RP-1/LOX Propellant Properties",
+          "prompt_payload": "Create an infographic detailing the physical and chemical properties of RP-1 (refined kerosene) and liquid oxygen, explaining why this dense, storable combination was chosen for the Saturn V's first stage."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Tank Pressurization Systems for Non-Cryogenics",
+          "prompt_payload": "Generate an infographic explaining the pressurization systems used for RP-1 and LOX tanks, detailing how gaseous nitrogen and helium were used to maintain pressure during propellant consumption."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Welding Techniques for Large Rocket Tanks",
+          "prompt_payload": "Design an infographic showcasing the specialized welding techniques, such as friction stir welding, used for fabricating the massive aluminum fuel tanks of the S-IC stage, ensuring structural integrity."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Propellant Distribution within Tanks",
+          "prompt_payload": "Generate an infographic illustrating the internal baffling and distribution systems within the S-IC fuel tanks, designed to ensure a consistent flow of propellants to all five F-1 engines during dynamic flight."
+        }
+      ]
+    },
+    {
+      "label": "Label: LOX/RP-1 Fuel Tanks",
+      "description": "The S-IC first stage utilized LOX (Liquid Oxygen) as an oxidizer and RP-1 (Refined Petroleum-1), a highly refined kerosene, as fuel. This robust propellant combination provided immense thrust and was advantageous for its storability at ambient temperatures, simplifying ground operations compared to cryogenics.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Chemistry of LOX/RP-1 Combustion",
+          "prompt_payload": "Create an infographic explaining the chemical reactions involved in the combustion of liquid oxygen and RP-1 in a rocket engine, highlighting the energy output and byproducts."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Comparison of Rocket Propellants",
+          "prompt_payload": "Generate an infographic comparing the characteristics, advantages, and disadvantages of different rocket propellant combinations, including LOX/RP-1, LH2/LOX, and hypergolics."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Fuel System Plumbing for Multi-Engine Stage",
+          "prompt_payload": "Design a detailed infographic illustrating the complex fuel system plumbing of the S-IC stage, showing how propellants were routed from the LOX/RP-1 tanks to all five F-1 engines."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Logistics of Propellant Supply for Saturn V",
+          "prompt_payload": "Generate an infographic detailing the immense logistical effort involved in transporting, storing, and loading millions of gallons of LOX and RP-1 for each Saturn V launch at the Kennedy Space Center."
+        }
+      ]
+    },
+    {
+      "label": "Label: 5 F-1 Engines (7.5 Million lbs Thrust)",
+      "description": "This label highlights that the S-IC first stage was powered by five F-1 engines, delivering an astonishing total thrust of 7.5 million pounds (approximately 33.4 million Newtons). This colossal force was absolutely necessary to lift the fully fueled, 6.5 million-pound Saturn V off the ground against Earth's gravity.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Thrust-to-Weight Ratio for Liftoff",
+          "prompt_payload": "Create an infographic explaining the importance of a high thrust-to-weight ratio for a rocket at liftoff, specifically how the Saturn V's 7.5 million lbs of thrust enabled it to accelerate despite its immense initial mass."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Engineering of Extreme Thrust Levels",
+          "prompt_payload": "Generate an infographic discussing the engineering challenges and material science innovations required to design and build rocket engines capable of producing millions of pounds of thrust."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Noise and Vibration at Launch",
+          "prompt_payload": "Design an infographic illustrating the decibel levels and vibrational patterns generated by the Saturn V's F-1 engines at liftoff, explaining their impact on launch structures and surrounding environment."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Historical Rocket Thrust Records",
+          "prompt_payload": "Generate an infographic showcasing the historical progression of maximum thrust achieved by rocket engines, placing the F-1 engine's 1.5 million lbs (per engine) and Saturn V's total thrust in context."
+        }
+      ]
+    },
+    {
+      "label": "Info: Total Weight",
+      "description": "The total weight of the fully fueled Saturn V rocket at liftoff was approximately 6.5 million lbs (2.97 million kg). This massive weight made it the heaviest rocket ever flown, requiring the extraordinary power of the F-1 engines to overcome Earth's gravity and initiate its journey to the Moon.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Mass vs. Weight in Spaceflight",
+          "prompt_payload": "Create an infographic clarifying the concepts of mass and weight, explaining their differences and significance in the context of rocket science and spaceflight, especially with varying gravitational fields."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Center of Gravity in Rocket Design",
+          "prompt_payload": "Generate an infographic illustrating the concept of the center of gravity in rocket design and how its position changes as propellants are consumed during flight, affecting stability."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Impact of Weight on Rocket Design",
+          "prompt_payload": "Design an infographic explaining how the immense total weight of the Saturn V significantly influenced every aspect of its design, from structural strength to engine power requirements and launch infrastructure."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Payload Fraction Calculations",
+          "prompt_payload": "Generate an infographic explaining how payload fraction (the ratio of payload mass to total launch mass) is calculated for rockets and what factors, including total weight, influence this crucial metric."
+        }
+      ]
+    },
+    {
+      "label": "Arrow: Liftoff",
+      "description": "This arrow clearly indicates the critical phase of liftoff, marking the moment the Saturn V rocket began its ascent from the launch pad, overcoming the force of gravity. It points from the S-IC stage's ground position upwards to the 'Liftoff to ~42 Miles Altitude' description, representing the start of flight.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Physics of Rocket Liftoff",
+          "prompt_payload": "Create an infographic explaining the physics involved in a rocket's liftoff, detailing the interplay of thrust, gravity, and initial acceleration needed to overcome static equilibrium."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Launch Pad Infrastructure Explained",
+          "prompt_payload": "Generate an infographic illustrating the key components of a rocket launch pad (e.g., Mobile Launcher, FSS, RSS, flame trench) and their roles during the Saturn V's liftoff process."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Countdown Sequence Steps",
+          "prompt_payload": "Design an infographic detailing the major milestones and critical checks performed during the final hours and minutes of a rocket launch countdown, leading up to liftoff."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Forces Acting on a Rocket at Launch",
+          "prompt_payload": "Generate an infographic showing the various forces acting on a rocket at the moment of launch, including thrust, gravitational pull, aerodynamic drag, and wind forces."
+        }
+      ]
+    },
+    {
+      "label": "Label: Liftoff to ~42 Miles Altitude",
+      "description": "The S-IC first stage propelled the Saturn V from liftoff to an altitude of approximately 42 miles (68 kilometers), effectively pushing it through the densest part of Earth's atmosphere. At this point, the first stage separated, having expended most of its fuel and completed its primary role of generating initial velocity.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Atmospheric Layers and Rocket Ascent",
+          "prompt_payload": "Create an infographic illustrating Earth's atmospheric layers (troposphere, stratosphere, mesosphere, thermosphere) and showing how a rocket ascends through them, encountering varying densities and temperatures."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Max-Q Phenomenon Explained",
+          "prompt_payload": "Generate an infographic explaining the concept of 'Max-Q' (maximum dynamic pressure), illustrating when and why it occurs during a rocket's ascent and its significance for structural design."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Stage Separation Mechanics",
+          "prompt_payload": "Design an infographic detailing the mechanical processes involved in the separation of a rocket stage, including explosive charges, spring-actuated pushers, and retrorockets."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Trajectory Optimization for Ascent",
+          "prompt_payload": "Generate an infographic explaining how a rocket's ascent trajectory is optimized to minimize fuel consumption, reduce aerodynamic stress, and achieve the desired altitude and velocity for stage separation."
+        }
+      ]
+    },
+    {
+      "label": "Info: Burn Time (Stage 1 Liftoff)",
+      "description": "This refers to the burn time of the S-IC first stage during liftoff and initial ascent, which lasted for an intense 168 seconds (2 minutes, 48 seconds). This relatively short but powerful burn consumed millions of pounds of propellants to achieve significant initial velocity and altitude.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Propellant Consumption Dynamics",
+          "prompt_payload": "Create an infographic illustrating the rapid rate of propellant consumption by the F-1 engines during the S-IC's 168-second burn, showing how quickly fuel and oxidizer were depleted."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Engine Shutdown Sequence",
+          "prompt_payload": "Generate an infographic detailing the precise sequence of events during the F-1 engine shutdown at the end of the first stage burn, ensuring safe staging and preventing residual thrust."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Gravity Turn Maneuver",
+          "prompt_payload": "Design an infographic explaining the 'gravity turn' maneuver, where a rocket gradually pitches over after liftoff, using gravity to help steer the vehicle onto an efficient trajectory during the first stage burn."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Real-time Flight Control during First Stage",
+          "prompt_payload": "Generate an infographic illustrating how real-time flight control systems monitored and adjusted the Saturn V's trajectory and engine performance during the critical 168-second first stage burn."
+        }
+      ]
+    },
+    {
+      "label": "Info: Burn Time (Stage 1 General)",
+      "description": "The burn time for the S-IC first stage was 168 seconds, during which its five F-1 engines generated the immense thrust required to lift the entire rocket off the pad and accelerate it significantly. This period was crucial for overcoming the initial challenges of liftoff and atmospheric drag before stage separation.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "Impact of Burn Duration on Rocket Performance",
+          "prompt_payload": "Create an infographic explaining how the duration of a rocket stage's burn time directly impacts its overall performance, range, and the final velocity achieved."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Telemetry Data from First Stage",
+          "prompt_payload": "Generate an infographic detailing the types of telemetry data collected from the S-IC first stage during its 168-second burn, including thrust, pressure, temperature, and acceleration, and their importance for analysis."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Staging Event Timing and Precision",
+          "prompt_payload": "Design an infographic illustrating the precise timing and coordination required for the staging event after the first stage burn, ensuring safe separation and ignition of the second stage."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Historical First Stage Burn Durations",
+          "prompt_payload": "Generate an infographic comparing the burn durations of the first stages of various historical rockets, such as the V-2, Atlas, and Falcon 9, to put the Saturn V's 168-second burn in context."
+        }
+      ]
+    },
+    {
+      "label": "Info: Payload to LEO (Stack)",
+      "description": "This information, presented early in the diagram, reiterates the overall payload capability of the fully assembled Saturn V to Low Earth Orbit (LEO) as 310,000 lbs (140,614 kg). It emphasizes that even at the initial design stages, the rocket's primary purpose was to deliver this massive payload to its target orbit.",
+      "suggested_actions": [
+        {
+          "type": "diagram_generation",
+          "label": "The Rocket Equation Explained",
+          "prompt_payload": "Create an infographic explaining the Tsiolkovsky rocket equation, demonstrating how the initial mass of the stack, propellant mass fraction, and exhaust velocity determine the maximum achievable delta-V and payload to orbit."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Influence of Payload Mass on Rocket Design",
+          "prompt_payload": "Generate an infographic illustrating how the required payload mass significantly influences the overall design of a rocket, including the size of its engines, fuel tanks, and structural integrity."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Comparative Payload Capacities to LEO",
+          "prompt_payload": "Design an infographic comparing the LEO payload capacities of the Saturn V with other historical and modern heavy-lift rockets, such as Energia, SLS, and Starship, to highlight its significant capability."
+        },
+        {
+          "type": "diagram_generation",
+          "label": "Mission Planning with Payload Constraints",
+          "prompt_payload": "Generate an infographic explaining how mission planners optimize spacecraft design and mission profiles within the constraints of a launch vehicle's payload capacity to LEO and beyond."
+        }
+      ]
+    }
+  ]
+}
